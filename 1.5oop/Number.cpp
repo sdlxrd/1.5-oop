@@ -1,6 +1,6 @@
 #include "Number.h"
 #include <iostream>
-
+    
 using namespace std;
 
 void Number::setNumber(double value)
